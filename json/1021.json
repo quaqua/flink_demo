@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "NVAL_DATE", 
+      "Name": "NVAL_DATE", 
+      "Type": "NVAL_DATE", 
+      "Value": null, 
+      "id": 1021
+    }, 
+    "parents": [
+      {
+        "Info": "NVAL_DATE", 
+        "Name": "NVAL_DATE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1020
+      }
+    ]
+  }
+}

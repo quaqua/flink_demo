@@ -1,0 +1,35 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_COLOR", 
+        "Name": "NVAL_COLOR", 
+        "Type": "NVAL_COLOR", 
+        "Value": null, 
+        "id": 1015
+      }
+    ], 
+    "node": {
+      "Info": "NVAL_COLOR", 
+      "Name": "NVAL_COLOR", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1014
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATES", 
+        "Name": "TEMPLATES", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 5
+      }
+    ]
+  }
+}

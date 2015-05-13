@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "NVAL_BOOL", 
+      "Name": "NVAL_BOOL", 
+      "Type": "NVAL_BOOL", 
+      "Value": null, 
+      "id": 1029
+    }, 
+    "parents": [
+      {
+        "Info": "NVAL_BOOL", 
+        "Name": "NVAL_BOOL", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1028
+      }
+    ]
+  }
+}

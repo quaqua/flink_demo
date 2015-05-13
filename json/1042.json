@@ -1,0 +1,56 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "ET.CANCEL", 
+        "Name": "ET.CANCEL", 
+        "Type": "NVAL_BOOL", 
+        "Value": false, 
+        "id": 1043
+      }, 
+      {
+        "Info": "ET.FLAT", 
+        "Name": "ET.FLAT", 
+        "Type": "NVAL_BOOL", 
+        "Value": false, 
+        "id": 1044
+      }, 
+      {
+        "Info": "ET.LINK", 
+        "Name": "ET.LINK", 
+        "Type": "NVAL_BOOL", 
+        "Value": false, 
+        "id": 1045
+      }, 
+      {
+        "Info": "ET.DELETE", 
+        "Name": "ET.DELETE", 
+        "Type": "NVAL_INT", 
+        "Value": 0, 
+        "id": 1046
+      }
+    ], 
+    "node": {
+      "Info": "TP", 
+      "Name": "TP", 
+      "Type": "EDGETYPE", 
+      "Value": null, 
+      "id": 1042
+    }, 
+    "parents": [
+      {
+        "Info": "ET", 
+        "Name": "ET", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 6
+      }
+    ]
+  }
+}

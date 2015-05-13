@@ -1,0 +1,35 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_INT", 
+        "Name": "NVAL_INT", 
+        "Type": "NVAL_INT", 
+        "Value": null, 
+        "id": 1009
+      }
+    ], 
+    "node": {
+      "Info": "NVAL_INT", 
+      "Name": "NVAL_INT", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1008
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATES", 
+        "Name": "TEMPLATES", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 5
+      }
+    ]
+  }
+}

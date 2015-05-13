@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "NVAL_COLOR", 
+      "Name": "NVAL_COLOR", 
+      "Type": "NVAL_COLOR", 
+      "Value": null, 
+      "id": 1015
+    }, 
+    "parents": [
+      {
+        "Info": "NVAL_COLOR", 
+        "Name": "NVAL_COLOR", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1014
+      }
+    ]
+  }
+}

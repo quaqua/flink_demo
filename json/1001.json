@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "TEMPLATE", 
+      "Name": "TEMPLATE", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1001
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATE", 
+        "Name": "TEMPLATE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1
+      }
+    ]
+  }
+}

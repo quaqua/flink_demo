@@ -1,0 +1,35 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_DATETIME", 
+        "Name": "NVAL_DATETIME", 
+        "Type": "NVAL_DATETIME", 
+        "Value": null, 
+        "id": 1023
+      }
+    ], 
+    "node": {
+      "Info": "NVAL_DATETIME", 
+      "Name": "NVAL_DATETIME", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1022
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATES", 
+        "Name": "TEMPLATES", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 5
+      }
+    ]
+  }
+}

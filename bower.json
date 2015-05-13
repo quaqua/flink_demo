@@ -1,0 +1,22 @@
+{
+  "name": "flink_application",
+  "version": "0.0.1",
+  "authors": [
+    "thorsten zerha <zerha@mur.at>"
+  ],
+  "description": "Demonstrates my abilities",
+  "main": "app.py",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular": "~1.3.15",
+    "angular-ui-tree": "~2.2.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_STRING", 
+        "Name": "NVAL_STRING", 
+        "Type": "NVAL_STRING", 
+        "Value": null, 
+        "id": 1007
+      }
+    ], 
+    "node": {
+      "Info": "NVAL_STRING", 
+      "Name": "NVAL_STRING", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1006
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATES", 
+        "Name": "TEMPLATES", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 5
+      }
+    ]
+  }
+}

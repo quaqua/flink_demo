@@ -1,0 +1,140 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_MEMO", 
+        "Name": "NVAL_MEMO", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1012
+      }, 
+      {
+        "Info": "NVAL_FLOAT", 
+        "Name": "NVAL_FLOAT", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1010
+      }, 
+      {
+        "Info": "EDGETYPE", 
+        "Name": "EDGETYPE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 8
+      }, 
+      {
+        "Info": "NVAL_COLOR", 
+        "Name": "NVAL_COLOR", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1014
+      }, 
+      {
+        "Info": "FOLDER", 
+        "Name": "FOLDER", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 3
+      }, 
+      {
+        "Info": "NVAL", 
+        "Name": "NVAL", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1004
+      }, 
+      {
+        "Info": "TEMPLATE", 
+        "Name": "TEMPLATE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1
+      }, 
+      {
+        "Info": "NVAL_FILE", 
+        "Name": "NVAL_FILE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1024
+      }, 
+      {
+        "Info": "NVAL_STRING", 
+        "Name": "NVAL_STRING", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1006
+      }, 
+      {
+        "Info": "NVAL_BOOL", 
+        "Name": "NVAL_BOOL", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1028
+      }, 
+      {
+        "Info": "NVAL_CHOICE", 
+        "Name": "NVAL_CHOICE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1026
+      }, 
+      {
+        "Info": "NVAL_PASSWORD", 
+        "Name": "NVAL_PASSWORD", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1016
+      }, 
+      {
+        "Info": "NVAL_DATE", 
+        "Name": "NVAL_DATE", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1020
+      }, 
+      {
+        "Info": "NVAL_TIME", 
+        "Name": "NVAL_TIME", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1018
+      }, 
+      {
+        "Info": "NVAL_INT", 
+        "Name": "NVAL_INT", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1008
+      }, 
+      {
+        "Info": "NVAL_DATETIME", 
+        "Name": "NVAL_DATETIME", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1022
+      }
+    ], 
+    "node": {
+      "Info": "TEMPLATES", 
+      "Name": "TEMPLATES", 
+      "Type": "FOLDER", 
+      "Value": null, 
+      "id": 5
+    }, 
+    "parents": [
+      {
+        "Info": "ROOT", 
+        "Name": "ROOT", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 7
+      }
+    ]
+  }
+}

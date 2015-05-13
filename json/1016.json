@@ -1,0 +1,35 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "NVAL_PASSWORD", 
+        "Name": "NVAL_PASSWORD", 
+        "Type": "NVAL_PASSWORD", 
+        "Value": null, 
+        "id": 1017
+      }
+    ], 
+    "node": {
+      "Info": "NVAL_PASSWORD", 
+      "Name": "NVAL_PASSWORD", 
+      "Type": "TEMPLATE", 
+      "Value": null, 
+      "id": 1016
+    }, 
+    "parents": [
+      {
+        "Info": "TEMPLATES", 
+        "Name": "TEMPLATES", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 5
+      }
+    ]
+  }
+}

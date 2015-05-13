@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "NVAL_FLOAT", 
+      "Name": "NVAL_FLOAT", 
+      "Type": "NVAL_FLOAT", 
+      "Value": null, 
+      "id": 1011
+    }, 
+    "parents": [
+      {
+        "Info": "NVAL_FLOAT", 
+        "Name": "NVAL_FLOAT", 
+        "Type": "TEMPLATE", 
+        "Value": null, 
+        "id": 1010
+      }
+    ]
+  }
+}

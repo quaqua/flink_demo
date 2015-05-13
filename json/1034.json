@@ -1,0 +1,27 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [], 
+    "node": {
+      "Info": "ET.CANCEL", 
+      "Name": "ET.CANCEL", 
+      "Type": "NVAL_BOOL", 
+      "Value": false, 
+      "id": 1034
+    }, 
+    "parents": [
+      {
+        "Info": "NT", 
+        "Name": "NT", 
+        "Type": "EDGETYPE", 
+        "Value": null, 
+        "id": 10
+      }
+    ]
+  }
+}

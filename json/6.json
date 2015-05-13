@@ -1,0 +1,56 @@
+{
+  "result": {
+    "attribs": [
+      "Info", 
+      "Name", 
+      "Type", 
+      "Value"
+    ], 
+    "children": [
+      {
+        "Info": "TP", 
+        "Name": "TP", 
+        "Type": "EDGETYPE", 
+        "Value": null, 
+        "id": 1042
+      }, 
+      {
+        "Info": "NT", 
+        "Name": "NT", 
+        "Type": "EDGETYPE", 
+        "Value": null, 
+        "id": 10
+      }, 
+      {
+        "Info": "NVAL_H", 
+        "Name": "NVAL_H", 
+        "Type": "EDGETYPE", 
+        "Value": null, 
+        "id": 1047
+      }, 
+      {
+        "Info": "H", 
+        "Name": "H", 
+        "Type": "EDGETYPE", 
+        "Value": null, 
+        "id": 13
+      }
+    ], 
+    "node": {
+      "Info": "ET", 
+      "Name": "ET", 
+      "Type": "FOLDER", 
+      "Value": null, 
+      "id": 6
+    }, 
+    "parents": [
+      {
+        "Info": "ROOT", 
+        "Name": "ROOT", 
+        "Type": "FOLDER", 
+        "Value": null, 
+        "id": 7
+      }
+    ]
+  }
+}
