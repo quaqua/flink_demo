@@ -7,7 +7,9 @@ import os
 json_root = os.path.join( config.app_root(), 'json' )
     
 class NodeList(Resource):
-
+    """NodeList API
+    Provides a getter to retrieve all nodes
+    """
     @swagger.operation(
         notes='get all nodes',
     )
@@ -24,6 +26,9 @@ class NodeList(Resource):
         return results
 
 class NodeItem(Resource):
+    """NodeItem API
+    Provides methods to CRUD a node item.
+    """
 
     @swagger.operation(
         notes='get node by id'
